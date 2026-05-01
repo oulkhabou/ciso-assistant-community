@@ -9,7 +9,7 @@ description: "Checklist des exigences de la Loi n\xB0 09-08 relative \xE0 la pro
   \ des donn\xE9es \xE0 caract\xE8re personnel"
 copyright: Oulkhabou Bassou
 version: 1
-publication_date: 2026-04-29
+publication_date: 2026-05-01
 provider: BASSOU
 packager: Oulkhabou Bassou
 objects:
@@ -350,7 +350,7 @@ objects:
         \ sur le seul fondement d'un traitement automatis\xE9 d\xE9finissant le profil\
         \ ou \xE9valuant la personnalit\xE9 de l'int\xE9ress\xE9."
     - urn: urn:bassou:risk:req_node:checklist_09-08:3
-      assessable: true
+      assessable: false
       depth: 1
       ref_id: '3'
       name: "Obligations de d\xE9claration et d'autorisation pr\xE9alable"
@@ -543,7 +543,7 @@ objects:
         \ soins) effectu\xE9 par un professionnel soumis au secret est soumis \xE0\
         \ simple d\xE9claration."
     - urn: urn:bassou:risk:req_node:checklist_09-08:4
-      assessable: true
+      assessable: false
       depth: 1
       ref_id: '4'
       name: "Obligations de s\xE9curit\xE9, confidentialit\xE9 et secret professionnel"
@@ -749,7 +749,7 @@ objects:
         \ sur la liste \xE9tablie par la Commission nationale comme r\xE9pondant aux\
         \ crit\xE8res de protection ad\xE9quate."
     - urn: urn:bassou:risk:req_node:checklist_09-08:5:2
-      assessable: true
+      assessable: false
       depth: 2
       parent_urn: urn:bassou:risk:req_node:checklist_09-08:5
       name: "\u25B6  B. D\xE9rogations applicables aux transferts vers des \xC9tats\
